@@ -4,10 +4,10 @@ W5300 TOE SHIELD + STM32F103 Based STM32 Bluepill Board + Arduino IDE
 Based IoT Home Automation System<br><br>
 <a href="https://github.com/MadhuriVaghasia/W5300AnyArduino">W5300 Arduino Library</a> - I edited this to use it with STM32F103 Bluepill and w5300
 <br><br>
-This repository having following files..
-W5300_stm32f103 library
-Sample Home automation project based on this library
-harware design and schametic images
+This repository having following files..<br>
+1. W5300_stm32f103 library<br>
+2. Sample Home automation project based on this library<br>
+3. harware design and schametic images<br>
 <br><br>
 Project documentation at Wiznet Maker site
 https://maker.wiznet.io/nk_maker/contest/w5300-home-automation-using-stm32-bluepill-stm32f103/
